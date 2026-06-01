@@ -1,0 +1,12 @@
+.margen{
+    margin: 20px;
+    border: 10px solid #000000;
+}
+.cuadro{
+    background-color: #b4b3b3;
+    padding: 10px;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;    
+}
